@@ -8,6 +8,11 @@ footer{
 	background: green;
 }
 
+
+#logo{
+	width: 50%;
+}
+
 section{
 	background: red;
 }
