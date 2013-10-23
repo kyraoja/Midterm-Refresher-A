@@ -1,12 +1,9 @@
 /* Stylesheet */
 
-
-
-/* Help Class to Show Grid */
-.showgrid {
-	background: url("../img/12-col-grid.gif") !important;
+body{
+	background: url("../img/bg.png");
 }
-
+	
 footer{
 	background: green;
 }
@@ -18,3 +15,11 @@ section{
 p{
 	font-family: 'Open Sans', sans-serif;
 }
+
+
+/* Help Class to Show Grid */
+.showgrid {
+	background: url("../img/12-col-grid.gif") !important;
+}
+
+
